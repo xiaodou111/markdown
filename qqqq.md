@@ -8,9 +8,7 @@ d_cgrk_999
 
 230420312051  10305416
 
-查询1-20 -- 4-20 3个月没有来消费
 
-查询4.1 统计1.1-3.31号
 
 d_yb_first_cus  tmp_YB_FIRST_CUS   D_YB_FIRST_CUS_202210
 
