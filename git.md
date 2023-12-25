@@ -45,13 +45,3 @@ mkdir .ssh
 ```
 vi test.pub
 ```
-
-
-test
-
-sdadad
-
-dsa
-
-sdad
-
